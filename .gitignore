@@ -1,0 +1,17 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# NuGet (packages.config restore target)
+packages/
+*.nupkg
+
+# Signing key material — never commit
+*.pfx
+*.snk
+*.p12
