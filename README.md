@@ -1,3 +1,5 @@
+This originates from https://github.com/lukoplt/DefaultAgentBlock/tree/main but has been modified to only block GHCH agents.
+
 # DefaultAgentBlock
 
 A **Dataverse plug-in that blocks the creation of Copilot Studio agents** in a Power Platform
